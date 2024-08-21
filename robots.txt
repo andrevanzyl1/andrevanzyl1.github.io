@@ -1,0 +1,36 @@
+User-agent: 008
+Disallow: /
+
+User-agent: SiteAuditBot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Semrushbot-SI
+Allow: /
+
+User-agent: Yahoo Pipes 2.0
+Disallow: /
+
+User-agent: Facebot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Sitemap files
+Sitemap: https://www.letsasafaris.co.za/sitemap.xml
