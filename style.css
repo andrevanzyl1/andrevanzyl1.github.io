@@ -263,6 +263,22 @@ a:hover {
   background-position: center;
 }
 
+.home-image-exec {
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/images/about/lodge.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+.home-image-packages {
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/images/hunt/limpopo-1/snacks.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
 .about-us-family-image {
   height: 100%;
   width: 100%;
