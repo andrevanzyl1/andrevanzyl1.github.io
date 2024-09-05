@@ -279,6 +279,14 @@ a:hover {
   background-position: center;
 }
 
+.home-image-buffalo {
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/images/home/buffalo.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
 .about-us-family-image {
   height: 100%;
   width: 100%;
@@ -1186,7 +1194,7 @@ li {
   }
 
   .information-block {
-    height: 500px;
+    height: 600px;
     padding: 0px;
   }
 
@@ -1196,7 +1204,7 @@ li {
   }
 
   .home-image-container {
-    height: 500px;
+    height: 600px;
   }
 
   .travel-image-container {
