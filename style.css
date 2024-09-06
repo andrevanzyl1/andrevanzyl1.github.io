@@ -287,6 +287,14 @@ a:hover {
   background-position: center;
 }
 
+.home-image-klippie {
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/images/home/klipspringer.jpg');
+  background-size: cover;
+  background-position: top;
+}
+
 .about-us-family-image {
   height: 100%;
   width: 100%;
