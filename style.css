@@ -238,13 +238,13 @@ a:hover {
   opacity: 0.6;
 }
 
-.hero-banner-travel {
+.hero-banner-br {
   height: 100%;
   width: 100%;
-  background-image: url('./assets/images/header/travel.jpeg');
+  background-image: url('./assets/images/header/hunting-in-limpopo.JPG');
   background-size: cover;
   background-position: bottom;
-  opacity: 0.7;
+  opacity: 1;
 }
 
 .home-image {

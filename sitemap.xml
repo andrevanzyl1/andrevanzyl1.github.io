@@ -24,4 +24,9 @@
 		<loc>https://www.letsasafaris.co.za/gallery.html</loc>
     <changefreq>weekly</changefreq>
 	</url>
+	<url>
+    <priority>0.9</priority>
+		<loc>https://www.letsasafaris.co.za/hunting-in-limpopo-south-africa</loc>
+    <changefreq>weekly</changefreq>
+	</url>
 </urlset>
