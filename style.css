@@ -414,7 +414,7 @@ a:hover {
   transform: translate(-50%, -50%);
 }
 
-.button {
+.button-transparent {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -426,10 +426,30 @@ a:hover {
   font-size: 0.85em;
 }
 
+.button-transparent:hover {
+  background-color: #FFFFFF;
+  color: #333333;
+  transition: 0.4s ease;
+  border-color: #333333;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333333;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  border: solid 1px #FFFFFF;
+  padding: 10px 20px;
+  font-size: 0.85em;
+}
+
 .button:hover {
   background-color: #FFFFFF;
   color: #333333;
   transition: 0.4s ease;
+  border-color: #333333;
 }
 
 .button-black {
