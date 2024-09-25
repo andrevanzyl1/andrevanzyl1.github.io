@@ -34,4 +34,9 @@
 		<loc>https://www.letsasafaris.co.za/hunting-species-of-south-africa.html</loc>
     <changefreq>weekly</changefreq>
 	</url>
+	<url>
+    <priority>0.9</priority>
+		<loc>https://www.letsasafaris.co.za/hunting-in-free-state-south-africa.html</loc>
+    <changefreq>weekly</changefreq>
+	</url>
 </urlset>
