@@ -182,12 +182,11 @@ a:hover {
   position: relative;
 }
 
-/************************/
-
 .hunt-package-container {
   width: 360px;
   height: 475px;
   background: #f7f6f5;
+  margin-bottom: 30px;
 }
 
 .hunt-package-header-container {
@@ -989,6 +988,10 @@ li {
     width: 100%;
     height: auto;
   }
+
+  .hunt-package-container {
+    width: 300px;
+  }
 }
 
 /* ----------- Mobile ----------- */
@@ -1173,6 +1176,10 @@ li {
 
   .card {
     min-width: 500px;
+  }
+
+  .hunt-package-container {
+    width: 360px;
   }
 }
 
@@ -1371,6 +1378,10 @@ li {
   .footer-text {
     line-height: 3em;
   }
+
+  .hunt-package-container {
+    width: 360px;
+  }
 }
 
 @media only screen and (min-width : 1600px) {
@@ -1448,6 +1459,10 @@ li {
 
   .travel-image-container {
     height: 450px;
+  }
+
+  .hunt-package-container {
+    width: 360px;
   }
 }
 
@@ -1528,6 +1543,10 @@ li {
 
   .travel-image-container {
     height: 450px;
+  }
+
+  .hunt-package-container {
+    width: 360px;
   }
 }
 
