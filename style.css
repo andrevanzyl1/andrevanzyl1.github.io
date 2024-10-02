@@ -798,6 +798,10 @@ li {
     width: 100%;
   }
 
+  .w-60 {
+    width: 80%;
+  }
+
   .w50 {
     width: 90%;
   }
@@ -1209,6 +1213,10 @@ li {
 @media screen and (min-device-width: 1200px) {
   .w-80 {
     width: 80%;
+  }
+
+  .w-60 {
+    width: 60%;
   }
 
   .w50 {
