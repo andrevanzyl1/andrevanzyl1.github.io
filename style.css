@@ -268,9 +268,18 @@ a:hover {
 .hero-banner {
   height: 100%;
   width: 100%;
+  background-image: url('./assets/images/header/packages.jpg');
+  background-size: cover;
+  background-position: left;
+  opacity: 0.8;
+}
+
+.hero-banner-packages {
+  height: 100%;
+  width: 100%;
   background-image: url('./assets/images/header/hero-banner-image.jpeg');
   background-size: cover;
-  background-position: bottom;
+  background-position: top;
   opacity: 0.8;
 }
 
@@ -344,15 +353,6 @@ a:hover {
   background-size: cover;
   background-position: bottom;
   opacity: 0.7;
-}
-
-.hero-banner-packages {
-  height: 100%;
-  width: 100%;
-  background-image: url('./assets/images/header/packages.jpg');
-  background-size: cover;
-  background-position: top;
-  opacity: 0.8;
 }
 
 .home-image {
@@ -807,7 +807,7 @@ li {
   }
 
   .hero-banner-packages {
-    background-position: left;
+    background-position: bottom;
   }
 
 
@@ -1088,9 +1088,18 @@ li {
   .hero-banner {
     height: 100%;
     width: 100%;
-    background-image: url('./assets/images/header/hero-banner-image.jpeg');
+    background-image: url('./assets/images/header/packages.jpg');
     background-size: cover;
     background-position: unset;
+    opacity: 0.8;
+  }
+
+  .hero-banner-packages {
+    height: 100%;
+    width: 100%;
+    background-image: url('./assets/images/header/hero-banner-image.jpeg');
+    background-size: cover;
+    background-position: bottom;
     opacity: 0.8;
   }
 
@@ -1278,7 +1287,7 @@ li {
   .hero-banner {
     height: 100%;
     width: 100%;
-    background-image: url('./assets/images/header/hero-banner-image.jpeg');
+    background-image: url('./assets/images/header/packages.jpg');
     background-size: cover;
     background-position: unset;
     opacity: 0.8;
