@@ -346,6 +346,15 @@ a:hover {
   opacity: 0.7;
 }
 
+.hero-banner-packages {
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/images/header/packages.jpg');
+  background-size: cover;
+  background-position: top;
+  opacity: 0.8;
+}
+
 .home-image {
   height: 100%;
   width: 100%;
@@ -796,6 +805,11 @@ li {
   .hero-banner-container {
     height: 80vh;
   }
+
+  .hero-banner-packages {
+    background-position: left;
+  }
+
 
   .menu-container {
     width: 0px;
