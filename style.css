@@ -811,7 +811,7 @@ li {
   }
 
   .hero-banner-packages {
-    background-position: bottom;
+    background-position: top;
   }
 
 
@@ -1103,7 +1103,7 @@ li {
     width: 100%;
     background-image: url('./assets/images/header/hero-banner-image.jpeg');
     background-size: cover;
-    background-position: bottom;
+    background-position: top;
     opacity: 0.8;
   }
 
