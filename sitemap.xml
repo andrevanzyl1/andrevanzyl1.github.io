@@ -44,4 +44,9 @@
 		<loc>https://www.letsasafaris.co.za/hunting-packages-in-south-africa.html</loc>
     <changefreq>weekly</changefreq>
 	</url>
+	<url>
+    <priority>0.9</priority>
+		<loc>https://www.letsasafaris.co.za/hunting-in-south-africa-information.html</loc>
+    <changefreq>weekly</changefreq>
+	</url>
 </urlset>
