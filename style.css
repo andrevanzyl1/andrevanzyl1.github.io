@@ -346,6 +346,15 @@ a:hover {
   opacity: 0.9;
 }
 
+.hero-banner-big5 {
+  height: 100%;
+  width: 100%;
+  background-image: url('./assets/images/header/hunting-big5.jpg');
+  background-size: cover;
+  background-position: bottom;
+  opacity: 0.9;
+}
+
 .hero-banner-species {
   height: 100%;
   width: 100%;
