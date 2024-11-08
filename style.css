@@ -1020,6 +1020,14 @@ li {
   .hunt-package-container {
     width: 100%
   }
+
+  .home-image-right {
+    background-position: right;
+  }
+
+  .home-image-left {
+    background-position: left;
+  }
 }
 
 /* ----------- Mobile ----------- */
