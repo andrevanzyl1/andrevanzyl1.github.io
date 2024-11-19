@@ -172,8 +172,9 @@ a:hover {
 
 .home-image-container {
   width: 100%;
-  background: #000000;
+  background: #ffffff;
   position: relative;
+  padding: 10px;
 }
 
 .hunt-image-container {
@@ -1401,7 +1402,7 @@ li {
   }
 
   .home-image-container {
-    height: 600px;
+    height: 500px;
   }
 
   .travel-image-container {
@@ -1506,7 +1507,7 @@ li {
   }
 
   .home-image-container {
-    height: 700px;
+    height: 500px;
   }
 
   .travel-image-container {
