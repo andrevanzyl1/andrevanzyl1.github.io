@@ -800,9 +800,8 @@ li {
 
 .gallery-image-container {
   width: 100%;
-  background: #FFFFFF;
+  background: #e0e0e0;
   position: relative;
-  padding: 5px 5px;
 }
 
 /* ----------- Mobile ----------- */
@@ -1002,6 +1001,7 @@ li {
 
   .gallery-image-container {
     height: 300px;
+    padding-bottom: 2.5px;
   }
 
   .hunt-image-container {
@@ -1219,6 +1219,7 @@ li {
 
   .gallery-image-container {
     height: 400px;
+    padding: 2.5px 2.5px;
   }
 
   .travel-image-container {
@@ -1421,6 +1422,7 @@ li {
 
   .gallery-image-container {
     height: 400px;
+    padding: 2.5px 2.5px;
   }
 
   .travel-image-container {
@@ -1530,6 +1532,7 @@ li {
 
   .gallery-image-container {
     height: 500px;
+    padding: 2.5px 2.5px;
   }
 
   .travel-image-container {
@@ -1618,6 +1621,7 @@ li {
 
   .gallery-image-container {
     height: 600px;
+    padding: 2.5px 2.5px;
   }
 
   .travel-image-container {
