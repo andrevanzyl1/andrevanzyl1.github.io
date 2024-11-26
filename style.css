@@ -80,7 +80,7 @@ a:hover {
   position: absolute;
   top: 0;
   margin-top: 15px;
-  margin-left: 15px;
+  margin-left: 50px;
 }
 
 .menu-icon-container {
@@ -635,7 +635,7 @@ a:hover {
 
 .menu-line-1 {
   border-bottom: solid 2px #FFFFFF;
-  width: 18px;
+  width: 15px;
   padding-top: 5px;
 }
 
@@ -647,7 +647,7 @@ a:hover {
 
 .menu-line-3 {
   border-bottom: solid 2px #FFFFFF;
-  width: 18px;
+  width: 15px;
   padding-top: 7px;
 }
 
@@ -1037,6 +1037,10 @@ li {
 
   .home-image-left {
     background-position: left;
+  }
+
+  .logo-container {
+    margin-left: 15px;
   }
 }
 
@@ -1454,6 +1458,10 @@ li {
 
   .hunt-package-container {
     width: 360px;
+  }
+
+  .logo-container {
+    margin-left: 100px;
   }
 }
 
