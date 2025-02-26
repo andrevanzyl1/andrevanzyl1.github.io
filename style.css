@@ -33,6 +33,7 @@ body {
   line-height: 1.7 !important;
   font-weight: 300 !important;
   cursor: default;
+  letter-spacing: 0.5px;
 }
 
 input:focus,
@@ -744,7 +745,6 @@ h3 {
   text-transform: uppercase;
   animation: fadeIn 3s both;
   animation-delay: 0.3s;
-  font-weight: bold;
 }
 
 .hover-underline-animation {
