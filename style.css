@@ -810,6 +810,10 @@ p {
   text-align: left;
 }
 
+.flex-direction-mobile {
+  flex-direction: row;
+}
+
 /* ----------- Mobile ----------- */
 @media only screen and (min-width : 320px) {
   .w-80 {
@@ -1047,6 +1051,10 @@ p {
   .logo-container {
     margin-left: 15px;
   }
+
+  .flex-direction-mobile {
+    flex-direction: column;
+  }
 }
 
 /* ----------- Mobile ----------- */
@@ -1244,6 +1252,10 @@ p {
 
   .hunt-package-container {
     width: 360px;
+  }
+
+  .flex-direction-mobile {
+    flex-direction: row;
   }
 }
 
