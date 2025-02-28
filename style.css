@@ -1055,6 +1055,10 @@ p {
   .flex-direction-mobile {
     flex-direction: column;
   }
+
+  p {
+    text-align: center;
+  }
 }
 
 /* ----------- Mobile ----------- */
@@ -1256,6 +1260,10 @@ p {
 
   .flex-direction-mobile {
     flex-direction: row;
+  }
+
+  p {
+    text-align: left;
   }
 }
 
