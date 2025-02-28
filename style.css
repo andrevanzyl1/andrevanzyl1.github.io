@@ -996,7 +996,7 @@ p {
   }
 
   .information-block {
-    height: 600px;
+    min-height: 600px;
     padding: 20px;
   }
 
@@ -1221,7 +1221,7 @@ p {
   }
 
   .information-block {
-    height: 500px;
+    min-height: 500px;
     padding: 20px;
   }
 
@@ -1427,7 +1427,7 @@ p {
   }
 
   .information-block {
-    height: 600px;
+    min-height: 600px;
     padding: 0px;
   }
 
@@ -1537,7 +1537,7 @@ p {
   }
 
   .information-block {
-    height: 700px;
+    min-height: 700px;
     padding: 0px;
   }
 
@@ -1625,7 +1625,7 @@ p {
   }
 
   .information-block {
-    height: 700px;
+    min-height: 700px;
     padding: 0px;
   }
 
