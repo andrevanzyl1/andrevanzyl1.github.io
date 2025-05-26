@@ -816,6 +816,10 @@ p {
 
 /* ----------- Mobile ----------- */
 @media only screen and (min-width : 320px) {
+  .hero-banner-hunting {
+    background-position: left;
+  }
+
   .w-80 {
     width: 100%;
   }
