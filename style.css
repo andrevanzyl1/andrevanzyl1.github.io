@@ -278,7 +278,7 @@ a:hover {
   background-image: url('./assets/images/header/hero-banner-image.jpeg');
   background-size: cover;
   background-position: top;
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .hero-banner-about-us {
@@ -287,7 +287,7 @@ a:hover {
   background-image: url('./assets/images/header/about-us.jpeg');
   background-size: cover;
   background-position: bottom;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 
 .hero-banner-hunting {
@@ -296,7 +296,7 @@ a:hover {
   background-image: url('./assets/images/header/hunt.jpeg');
   background-size: cover;
   background-position: bottom;
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .hero-banner-hunting-information {
