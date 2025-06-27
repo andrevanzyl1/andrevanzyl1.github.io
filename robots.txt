@@ -1,14 +1,5 @@
 User-agent: *
-Disallow: /hunting-in-south-africa.html
-Disallow: /about-us.html
-Disallow: /contact-us.html
-Disallow: /gallery.html
-Disallow: /hunting-in-limpopo-south-africa.html
-Disallow: /hunting-species-of-south-africa.html
-Disallow: /hunting-in-free-state-south-africa.html
-Disallow: /hunting-in-big-5-game-reserve-south-africa.html
-Disallow: /hunting-packages-in-south-africa.html
-Disallow: /hunting-in-south-africa-information.html
+Disallow:
 
 Allow: /hunting-in-south-africa
 Allow: /about-us
