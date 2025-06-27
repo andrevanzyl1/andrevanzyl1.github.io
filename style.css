@@ -836,6 +836,10 @@ p {
     width: 90%;
   }
 
+  .w60 {
+    width: 90%;
+  }
+
   .hero-banner-container {
     height: 80vh;
   }
@@ -1107,6 +1111,10 @@ p {
     width: 60%;
   }
 
+  .w60 {
+    width: 60%;
+  }
+
   .menu-text {
     font-size: 1.7em;
   }
@@ -1320,6 +1328,10 @@ p {
 
   .w50 {
     width: 50%;
+  }
+
+  .w60 {
+    width: 60%;
   }
 
   .w-70 {
