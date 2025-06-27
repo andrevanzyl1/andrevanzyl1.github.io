@@ -794,6 +794,7 @@ h3 {
 
 ul {
   padding-right: 5px;
+  list-style-type: circle;
 }
 
 li {
