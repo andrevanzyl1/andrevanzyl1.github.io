@@ -1,16 +1,6 @@
 User-agent: *
 Disallow:
-
-Allow: /hunting-in-south-africa
-Allow: /about-us
-Allow: /contact-us
-Allow: /gallery
-Allow: /hunting-in-limpopo-south-africa
-Allow: /hunting-species-of-south-africa
-Allow: /hunting-in-free-state-south-africa
-Allow: /hunting-in-big-5-game-reserve-south-africa
-Allow: /hunting-packages-in-south-africa
-Allow: /hunting-in-south-africa-information
+Allow:
 
 # Sitemap files
 Sitemap: https://www.letsasafaris.co.za/sitemap.xml
