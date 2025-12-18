@@ -41,6 +41,11 @@
 	</url>
 	<url>
     <priority>0.9</priority>
+		<loc>https://www.letsasafaris.co.za/hunting-in-north-west-free-state-south-africa</loc>
+    <changefreq>weekly</changefreq>
+	</url>
+	<url>
+    <priority>0.9</priority>
 		<loc>https://www.letsasafaris.co.za/hunting-in-big-5-game-reserve-south-africa</loc>
     <changefreq>weekly</changefreq>
 	</url>
