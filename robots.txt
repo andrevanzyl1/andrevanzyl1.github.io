@@ -1,5 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: https://www.letsasafaris.co.za/assets/documents/Letsa_Safaris_PriceList_USD_FS.pdf
+Disallow: https://www.letsasafaris.co.za/assets/documents/Letsa_Safaris_PriceList_USD_NWFS.pdf
 Allow:
 
 # Sitemap files
